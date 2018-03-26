@@ -1,4 +1,4 @@
-# jobtitle_to_function_challenge
+# jobtitle_to_function_mapping_challenge
 
 ## Workflow
 - Input File : titles.txt
